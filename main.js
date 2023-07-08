@@ -51,7 +51,7 @@ let All_song = [
      singer: "Conceptual Slice Ashborne, Conformado por un conjunto de piezas diferentes que integran el OST del juego, GreyYard está conformado por única sección conformada por tres capas de stems, dos capas instrumentales y una capa percusiva. Además, a este slice se le añade un stinger de transición al inicio. Esta pieza responde a una dinámica de remezcla vertical adaptativa en la cual las capas musicales se añaden o se remueven a tempo en función de añadir o apaciguar la tensión en tiempo real. El diseño conjunto de piezas fue conceptualizado para el nivel de juego de misterio en el cual se incluye la dinámica de resecuenciación horizontal al cambiar el motivo musical en funcion del escenario."
    },
    {
-     name: "HellsPark-Ashborne",
+     name: "HallsPark-Ashborne",
      path: "5.wav",
      img: "img5.jpg",
      singer: "Conceptual Slice Ashborne, Conformado por un conjunto de piezas diferentes que integran el OST del juego, GreyYard está conformado por única sección conformada por cuatro capas de stems, dos capas instrumentales y dos capas percusivas, esta pieza responde a una dinámica de remezcla vertical adaptativa en la cual las capas musicales se añaden o se remueven a tempo en función de añadir o apaciguar la tensión en tiempo real. El diseño conjunto de piezas fue conceptualizado para el nivel de juego de misterio en el cual se incluye la dinámica de resecuenciación horizontal al cambiar el motivo musical en funcion del escenario."
