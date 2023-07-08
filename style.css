@@ -159,12 +159,12 @@ input[type="range"]::-webkit-slider-thumb{
 /*	border: 1px solid #fff;*/
 }
 .song_detail #title{
-	text-transform: capitalize;
+
 	color: #fff;
 	font-size: 35px;
 }
 .song_detail #artist{
-	text-transform: capitalize;
+
 	color: #fff;
 	font-size: 18px;
 	margin-top: 5px;
@@ -232,7 +232,7 @@ input[type="range"]::-webkit-slider-thumb{
 /*responsive*/
 @media(max-width: 700px){
 	.main{
-		min-height: 150vh;
+		min-height: 120vh;
 		width: 100%;
 		flex-direction: column;
 	}
@@ -270,7 +270,7 @@ input[type="range"]::-webkit-slider-thumb{
 
 @media(max-width: 500px){
 	.main{
-		min-height: 135vh;
+		min-height: 120vh;
 		width: 100%;
 		flex-direction: column;
 	}
